@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>轮子</name>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>178</ymin>
+            <xmax>262</xmax>
+            <ymax>284</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>车</name>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>70</ymin>
+            <xmax>447</xmax>
+            <ymax>284</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>车标</name>
+        <bndbox>
+            <xmin>386</xmin>
+            <ymin>171</ymin>
+            <xmax>406</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>
+</annotation>
